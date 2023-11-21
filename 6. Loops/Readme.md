@@ -30,5 +30,5 @@ Loops come into use when we need to repeatedly execute a block of statements. Li
 
 Note: In the do-while loop, the loop body will execute at least once irrespective of the test condition. 
 
-![App Screenshot](https://media.geeksforgeeks.org/wp-content/uploads/20191118170432/While-Loop-GeeksforGeeks1.jpg))
+![App Screenshot](https://media.geeksforgeeks.org/wp-content/uploads/20191118154342/do-while-Loop-GeeksforGeeks2.jpg)
 
